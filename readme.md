@@ -80,7 +80,7 @@ app.UseHttpsRedirection();
 app.Run();
 ```
 
-A função anônima representada por "() =>" visa reduzir a escrita de código. Sem ela, o codigo ficaria dessa forma:
+A função anônima representada por "( ) =>" visa reduzir a escrita de código. Sem ela, o codigo ficaria dessa forma:
 
 ```Csharp
 // Método mais descritivo
